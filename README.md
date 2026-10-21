@@ -154,8 +154,6 @@ These findings can help distinguish products that perform well on customer ratin
 
 Young Adults were the largest revenue-contributing age group in the analysis.
 
-*Note: Revenue figures and spending amounts reflect the values recorded in the dataset.*
-
 ## Business Recommendations
 
 1. **Improve customer loyalty:** Introduce targeted rewards and retention campaigns to encourage repeat purchases.
@@ -186,8 +184,6 @@ Customer-Shopping-Behaviour-Analysis/
 └── README.md
 ```
 
-*The structure above is illustrative. Update the folder names and notebook filename to match your actual GitHub repository.*
-
 ## How to Run
 
 ### Prerequisites
@@ -197,7 +193,7 @@ Install Python, MySQL Server, and Power BI Desktop.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/bchethan/Customer-behaviour-analysis
 cd Customer-Shopping-Behaviour-Analysis
 ```
 
